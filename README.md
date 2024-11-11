@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @MHammad-374
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Hammad
+- 👀 I’m a MERN Stack Developer.
+- 🌱 I’m currently building my own projects
+- 💞️ I’m looking to collaborate with an firm or companey that enhance my web development skills according to industry level.
+- 📫 How to reach me
+- email: mhammadif374@gmail.com
+- Ph# : +92 325-8182105
 
 <!---
 MHammad-374/MHammad-374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
