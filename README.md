@@ -8,4 +8,4 @@
 
 ✨ Interests: Web Development | Cloud Technologies | AI-driven solutions
 
-📫 Let’s connect: LinkedIn:  | Portfolio: https://mhammad-portfolio.netlify.app/
+📫 Let’s connect: LinkedIn: www.linkedin.com/in/muhammad-hammad-955465293 | Portfolio: https://mhammad-portfolio.netlify.app/
