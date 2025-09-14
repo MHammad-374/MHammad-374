@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Muhammad Hammad
-- 👀 I’m a MERN Stack Developer.
-- 🌱 I’m currently building my own projects
-- 💞️ I’m looking to collaborate with an firm or companey that enhance my web development skills according to industry level.
-- 📫 How to reach me
-- email: mhammadif374@gmail.com
-- Ph# : +92 325-8182105
+💻 Software Developer | Next JS & MERN Stack | Passionate about building scalable apps, clean code & exploring cloud + AI solutions 🚀
+🚀 Passionate about building scalable applications, clean architecture, and impactful digital solutions.
+🔧 Skilled in JavaScript, React, Node.js, Express, MongoDB, SQL, Next.js with hands-on full-stack project experience.
+☁️ Exploring Salesforce Administration & Development to expand into CRM and automation solutions.
+📚 Lifelong learner, open-source contributor, and problem solver.
+✨ Interests: Web Development | Cloud Technologies | AI-driven solutions
 
-<!---
-MHammad-374/MHammad-374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let’s connect: LinkedIn:  | Portfolio: https://mhammad-portfolio.netlify.app/
